@@ -4,7 +4,7 @@ function loadAds() {
   adsLoaded = true;
   const s = document.createElement("script");
   s.src =
-    "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4395879469133301";
+    "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6818700400318637";
   s.async = true;
   s.crossOrigin = "anonymous";
   document.head.appendChild(s);
