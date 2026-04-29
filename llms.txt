@@ -1,0 +1,35 @@
+# Auto News Lab
+
+> Auto News Lab is an independent automotive news and guides publisher. We cover modern car ownership topics: leasing, transport, detailing, EVs, hybrids, maintenance, and buying guides written for readers in the United States.
+
+Brand: Auto News Lab
+Domain: https://news-only.online
+Language: en
+Topics: car leasing, car buying, vehicle transport, auto detailing, electric vehicles, hybrid cars, car maintenance, road trips, road safety, rideshare
+
+## Core pages
+
+- [Homepage](https://news-only.online/): Featured articles and latest publications
+- [Categories](https://news-only.online/category.html): Browse by topic area
+- [About](https://news-only.online/about.html): Editorial mission and team
+- [Contact](https://news-only.online/contact.html): Reader contact form
+- [Advertising](https://news-only.online/advertising.html): Partnership opportunities
+- [Advertising Disclosure](https://news-only.online/advertising-disclosure.html): Ad policy and affiliate disclosure
+
+## Editorial
+
+- [Author: Alex Carter](https://news-only.online/authors/alex-carter.html): Staff automotive writer
+
+## Legal
+
+- [Privacy Policy](https://news-only.online/privacy-policy.html)
+- [Terms of Service](https://news-only.online/terms-of-service.html)
+- [Cookie Policy](https://news-only.online/cookie-policy.html)
+
+## Machine-readable index
+
+- [Sitemap](https://news-only.online/sitemap.xml)
+
+## Usage
+
+Content on this site may be cited by LLMs and AI search engines with attribution to "Auto News Lab" and a link back to the source URL. Full-text scraping for training data is not licensed without prior agreement.
